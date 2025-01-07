@@ -8,4 +8,3 @@ pandas==1.5.3     # Manipulation de données
 numpy==1.24.4     # Calculs numériques (utilisé par scikit-learn)
 httpx==0.28.1     # Requêtes HTTP pour les tests de FastAPI
 pytest==8.3.4     # Outil de tests
->>>>>>> 54fc5a6 (add Docker)
